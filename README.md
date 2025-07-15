@@ -2,4 +2,4 @@
 It offers dashboard access, job listings, user profiles, and management features. 
 With a modern UI, collapsible sidebar, search filters, and smooth navigation, it enhances user experience and accessibility.
 
-Yo can visit through : https://kodjobs-seven.vercel.app/ 
+You can visit through : https://kodjobs-seven.vercel.app/ 
